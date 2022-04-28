@@ -1,2 +1,2 @@
 # Learning_Python
-Code to print a patter with "#"
+Codes which I have made while learning Python
