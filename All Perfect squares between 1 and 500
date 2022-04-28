@@ -1,0 +1,3 @@
+import math as m
+for i in range(1,23,1):
+    print(int(m.pow(i,2)))
